@@ -1,2 +1,2 @@
-@echo YAY
-@echo HAXT > PWNT.TXT
+@echo HACKING COMPUTER
+@echo COMPUTER HAXT > PWNT.TXT
