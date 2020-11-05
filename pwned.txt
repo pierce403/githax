@@ -1,1 +1,0 @@
-lolpwned Linux penguin 5.4.58-07649-ge120df5deade #1 SMP PREEMPT Wed Aug 26 04:56:33 PDT 2020 x86_64 GNU/Linux
